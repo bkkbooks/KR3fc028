@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鑄銅方寸較定積數第十九鑄量以煉銅爲至要第二十筭經目錄竟
+  hash: sha256:f6d22ccb7465afea0fb73bbcb193adf852e682969bb6b7adcf0f6cfc299e4d20
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:020ed494e2865507af726b977e475289baa87a82d9fb943ce233a7e4b9a4f982

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/186
+seq: 186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 建辰月姑洗爲均主俗名緊羽調之下者一弦六弦散聲吹蕤賓定是爲姑洗之商二弦七弦散聲吹夷則定是爲姑洗之角三弦散聲吹應鍾定是爲姑洗之徵四弦散聲吹大呂定是爲姑洗之羽五弦散聲吹姑洗定是爲姑洗之宮
+  hash: sha256:ba09a14a5d3b299e5caab5fa9bbd2621741c583de77599466bad6c2b643456cd
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:1437b60e99def4ef82e3b9a9e566cd49899fd1625e0290d65c9680feb6a8433c

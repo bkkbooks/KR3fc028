@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/191
+seq: 191
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:d709f6444ccb54a86ec3ce249387d04bc058ebfeca0b50ab8dfd7d6650f68abb

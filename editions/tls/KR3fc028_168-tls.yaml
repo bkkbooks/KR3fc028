@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/168
+seq: 168
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十徽按五弦與散聲相應九徽按一弦與散聲相應
+  hash: sha256:b34f7691f325e61b8508ce46f421d4144bd0a8c2660d23a7422780dc2caf2d4b
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:9089af137c6465a39b9dd9b19f9623b8f933870c7a05e832238a595cac5b996f

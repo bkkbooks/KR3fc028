@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/108
+seq: 108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡開立方將算盤梁上帖紙一條寫千百十寸百十分百十釐百十毫百十絲百十忽百十微百十纖之名至於纖巳下位數不立名色只隔二位畫一圈使開方除實不錯耳立方積立方千纖為一微千微為一忽千忽為一絲千絲為一毫千毫為一釐千釐為一分千分為一寸千寸為一尺故曰幾百幾十幾尺幾百幾十幾寸幾百幾十幾分幾百幾十幾釐幾百幾十幾毫幾百幾十幾絲幾百幾十幾忽幾百幾十幾微幾百幾十幾纖又立積一一再乘所得也
+  hash: sha256:a92de8bbb2c480483a9bf0f4a0424110e68abe9f23a7f28e1eaff99c9192552e
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:e1ba0879a16b3d3ecd78147afb3fb354e6530b7c05759229a0276f8e8b1fa0b0

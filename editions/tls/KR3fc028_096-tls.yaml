@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自此巳後開至二十五位其術同前但纖巳下不立名色共得斜弦一尺四寸一分四釐二毫一絲三忽五微六纖二三七三九五四八八一六八九卽蕤賓倍律也折半長七寸七釐一毫六忽七微八纖一一八六五四七五二四四八四四五卽蕤賓正律也子午卯酉相生第三問黃鍾正律長十寸爲平方面其兩隅斜弦卽蕤賓倍律以黃鍾正律乘蕤賓倍律得平方積一百四十一寸四十二分一十三釐五十六毫二十三絲七十三忽九微五十纖四八八一六八九開平方法除之所得卽南呂倍律其長幾何荅曰長一尺一寸八分九釐二毫七忽一微一纖五二七二一六六七一
+  hash: sha256:bbbf778a23582496fa3723439e867c38bc91b0d8a9731b8d7eb39a8199fecf58
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:b72ae98cd736dc93faadb44ecd4ad46cfede3f2b663af7b358496e705f34bc1a

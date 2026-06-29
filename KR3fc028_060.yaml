@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嘉量一器分作五件算第十七大圈即釜之體算底在外內徑一尺四寸一分四釐二毫一三五六內周四尺四寸四分四釐四毫四四四四內面羃一百五十七寸滿百為寸一三四八四內積實一千五百七十一寸滿千為寸三四八四外徑一尺四寸三分四釐二毫一三五六外周四尺五寸分七釐二毫九八三六外面羃一百六十一寸滿百為寸六一七一外積實一千六百一十六寸滿千為寸一七一容銅正數四十四寸七百五十八分七耳圈即圓升之周也內徑二寸五分內周七寸八分五釐六毫七四二內面羃四寸滿百為寸九一四六三七五內積實一十九寸滿千為寸六四一八五五
+  hash: sha256:a84012eeb7480d7917bd006af2deed60349edc132e3c8e8fb3a20a5cd1fe2f0b
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:afc9599af61a975f0f790c5ac275e5cfcee384bf591b7ec91169041ed0f8b8c8

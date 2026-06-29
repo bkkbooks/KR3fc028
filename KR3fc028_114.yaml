@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七百二十九巳上開九一千巳上開一十八千巳上開二十二萬七千巳上開三十六萬四千巳上開四十一十二萬五千巳上開五十二十一萬六千巳上開六十三十四萬三千巳上開七十
+  hash: sha256:b7291487aa81d96c1b09c7abc7129b014790077a3dcd7658b53fe02a97b9b93a
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:b624c172f972acfb64f5ea5a30713b1e0cebf7d7548a2ff6a627b7adae97a12a

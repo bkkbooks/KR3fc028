@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/250
+seq: 250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭林鍾三種律第十八橫黍律長六寸六分七釐四毫史記少八毫斜黍律長六寸分釐七毫後漢少七毫縱黍律長五寸四分釐六毫淮南少六毫橫黍內周九分釐七毫斜黍內周八分一釐六毫縱黍內周七分三釐五毫橫黍內徑二分八釐八毫
+  hash: sha256:8ff108edc36f178765f4cc52f9939f140f8cc88d0df40b7480fe76b97bde8e67
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:98809d1be154b1ca0fc259022c098133d0517b9c8b63e8dfe0aeb86a34db67f1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/136
+seq: 136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置黃鍾長一尺表釜深一尺進一位爲實以應鍾積筭一尺五分九釐四毫六絲三忽爲法除之得大呂大呂長九寸四分三釐八毫七絲四忽置大呂進一位爲實前法除之得太蔟太蔟長八寸九分釐八毫九絲八忽夾鍾長八寸四分釐八毫九絲六忽姑洗長七寸九分三釐七毫絲忽仲呂長七寸四分九釐一毫五絲三忽蕤賓長七寸分七釐一毫絲六忽林鍾長六寸六分七釐四毫一絲九忽夷則長六寸二分九釐九毫六絲忽南呂長五寸九分四釐六毫絲三忽無射長五寸六分一釐二毫三絲一忽應鍾長五寸二分九釐七毫三絲一忽巳上俱照依上條筭故不細解
+  hash: sha256:3efa40052f220dcc14125aa7028b12cadbc4ff46e4b3e5b9b5d6ca69b65b46e2
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:a91a7bd51d57fca28bba9394a9eb846e5c19de20f1c3800c1dbc3b35b72543ab

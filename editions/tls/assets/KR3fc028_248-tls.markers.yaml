@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/markers/248
+seq: 248
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc028_tls_001-p120.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup95, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3fc028_tls_001-p120.s2}
+  - {type: line-break, offset: 10, content: '', id: KX_2_dup102, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: punctuation, offset: 18, content: ○, id: KR3fc028_tls_248-bkkpn1}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fc028_tls_001-p120.s3}
+  - {type: line-break, offset: 19, content: '', id: KX_3_dup102, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR3fc028_tls_001-p120.s4}
+  - {type: line-break, offset: 31, content: '', id: KX_4_dup102, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3fc028_tls_001-p120.s5}
+  - {type: line-break, offset: 43, content: '', id: KX_5_dup103, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: punctuation, offset: 49, content: ○, id: KR3fc028_tls_248-bkkpn2}
+  - {type: punctuation, offset: 52, content: ○, id: KR3fc028_tls_248-bkkpn3}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3fc028_tls_001-p120.s6}
+  - {type: line-break, offset: 53, content: '', id: KX_6_dup102, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: punctuation, offset: 61, content: ○, id: KR3fc028_tls_248-bkkpn4}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR3fc028_tls_001-p120.s7}
+  - {type: line-break, offset: 62, content: '', id: KX_7_dup90, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc028_tls_001-p120.s8}
+  - {type: line-break, offset: 72, content: '', id: KX_8_dup91, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: punctuation, offset: 80, content: ○, id: KR3fc028_tls_248-bkkpn5}
+  back: []
+hash: sha256:f361fea956d1261da12385a8481f2c3c3d50cd69a09b98692ece5e4459090075

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/220
+seq: 220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後學載堉著密率源流第一問曰釜內方尺而圓其外句股求弦得釜內徑一尺四寸一分四釐二毫一絲三忽五微六纖斯無疑矣何以知內周四尺四寸四分四釐四毫四絲四忽四微四纖也答曰按周髀古算經首章載昔者周公問於商高曰竊聞乎大夫善數也請問數安從出商高曰數之法出於圓方圓出於方方出於矩矩出於九九八十一是謂積矩禹之所以治天下者此數之所生也周公曰大哉言數請問用矩之道商高曰環矩以為圓合矩以為方方數為典以方出圓智出於句句出於矩夫矩之於數其裁制萬物唯所為爾周公曰善哉舊有趙甄李
+  hash: sha256:f3fd91c501e25bab99d5eba2b570fcad8b4cf858ffc1b9b9a99b7b721fcde11a
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:0751cef971b6464e6c7530f3c1733bd37fc75731e2be06a28f8191e6b1c44f4a

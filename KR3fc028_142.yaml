@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求十二律容黍第十黃鍾容黍一千二百置黃鍾容黍進一位為實應鍾自乘所得命作一尺一二二四六二為法除之大呂容黍一千六十九太蔟容黍九百五十二夾鍾容黍八百四十八姑洗容黍七百五十五仲呂容黍六百七十三蕤賓容黍六百林鍾容黍五百三十四夷則容黍四百七十六南呂容黍四百二十四無射容黍三百七十八應鍾容黍三百三十七法雖如是而擇黍務要如法否則不合矣
+  hash: sha256:fc6215bd91593ae3b8c7cebcc7533127b868272b76ccd0d86eb2e3f12600452c
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:a6d293decfa9af24d08332821487a70630d8f9f094e79b0954997b278d803400

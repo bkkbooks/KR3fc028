@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求十二律內周第十一黃鍾內周一寸一分一釐一毫一絲一忽置釜之內周在位四十爲法除之得黃鍾之內周進一位爲實應鍾開方所得命作一尺二九三二爲法除之大呂內周一寸分七釐九毫四絲八忽太蔟內周一寸分四釐八毫七絲五忽夾鍾內周一寸分一釐八毫八絲九忽姑洗內周九分八釐九毫八絲八忽仲呂內周九分六釐一毫七絲忽蕤賓內周九分三釐四毫三絲二忽林鍾內周九分釐七毫七絲二忽夷則內周八分八釐一毫八絲八忽南呂內周八分五釐六毫七絲七忽無射內周八分三釐二毫三絲八忽應鍾內周八分釐八毫六絲八忽
+  hash: sha256:cf1ce63588b2e9e85a8b6d3dd29b4e1e5e11261c4658dd64bee5c7d0a41010a1
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:0a663077dd1a19785c357c2840e4dad1bc08e2b97363a5fe0b92b0cdc3d6c032

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/270
+seq: 270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 竹無若作倍律長管長笛長籥則北竹無此極長節此乃南北二竹各有所長而不可偏廢也今附其說於末𥳑云
+  hash: sha256:3439f6d05b8a687848d80d0f21ecd8b25153e379b35853de9b11304adb428376
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:dd4f71bcc49488ffdcb387efc139eb7f6c400f0628af659dca881b13bc07e28f

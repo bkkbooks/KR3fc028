@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求十二律外徑第十四黃鍾外徑五分整置臋之內徑在位二十爲法除之得黃鍾之外徑進一位爲實應鍾開方所得命作一尺二九三二爲法除之大呂外徑四分八釐五毫七絲六忽太蔟外徑四分七釐一毫九絲三忽夾鍾外徑四分五釐八毫五絲忽姑洗外徑四分四釐五毫四絲五忽仲呂外徑四分三釐二毫七絲七忽蕤賓外徑四分二釐毫四絲五忽林鍾外徑四分釐八毫四絲八忽夷則外徑三分九釐六毫八絲五忽南呂外徑三分八釐五毫五絲五忽無射外徑三分七釐四毫五絲七忽應鍾外徑三分六釐三毫九絲一忽
+  hash: sha256:4acd6c831dc4f2c417eb988f10540e0bfbcb1c498c3ac442183eabe3a5c3f12c
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:2f3c1deb57d045c5011302bb2c75b8ed2d70359b78c30c258fabdf87c5aebc2d

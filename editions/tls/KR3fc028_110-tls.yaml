@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八二再乘所得也二十七三再乘所得也六十四四再乘所得也一百二十五五再乘所得也二百一十六六再乘所得也三百四十三七再乘所得也五百一十二八再乘所得也七百二十九九再乘所得也
+  hash: sha256:e8bc7d31242082aa21166cb70afe5256c15a04850497b4f27dd3676a2382b130
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:9ffbad42e36e5bb15f83a48d77fb86679a8e85dae405b3b975a69a6ba9bf93e3

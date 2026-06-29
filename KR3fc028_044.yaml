@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃鍾律九寸指此也三曰橫黍尺黃鍾長一尺史記曰黃鍾子一分去聲下同謂整一分即是一尺前漢志曰度本起於黃鍾之長又曰太極元氣函三為一又曰竹算徑一分象黃鍾之一敍傳贊曰元元本本數始於一此則指黃鍾橫黍律其長一尺之明證也雖有三種之說算經求度量取整數易算只據橫黍百分為尺故周禮曰釜深一尺即知黃鍾長一尺也置釜之積一千五百七十一寸三百四十八分四百釐為實以一千六百籥為法除之得九百八十二分百九十二釐七百五十毫是為黃鍾一籥之積實又置釜之面羃一百五十七寸一十三分四十八釐四十毫為實以一千六百籥為法除之得九分八十二釐十九毫二十七絲五十忽
+  hash: sha256:1cf79844fe3db761f77bf04281e16f2b50d39a8d9cb7fa6bd3c10c3a22fcc4c8
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:9deb22a912e2faccfbddcf1b1b11db4022b83d2f5ee587c08df37dc396c3a4d3

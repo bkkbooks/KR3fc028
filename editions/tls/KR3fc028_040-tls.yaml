@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以深一尺乘面羃得積實第五經云深尺卽十寸也置十寸爲實以面羃一百五十七寸一十三分四十八釐四十毫乘之得一千五百七十一寸三百四十八分四百釐是爲釜中積實之數乃八斗之積分斗之積數第六一釜者八斗也舊謂六斗四升非也置前所得一釜積數一千五百七十一寸三百四十八分四百釐爲實八斗除之得一百九十六寸四百一十八分五百五十釐是爲一斗之積數升之積數第七一斗者十升也置前所得一斗積數一百九十六寸四百一十八分五百五十釐爲實十升除之得一十九寸六百四十一
+  hash: sha256:915159a9232f6e828eba7bfc9f70db961c8ff0b77e2eb28a0d0dec00f7bfef7a
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:9b25df2b04ee17924e8534a5cebbca94f150981d50ea5d0a0e53c4152dd6ec00

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/242
+seq: 242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斜黍內徑二分九釐一毫縱黍內徑二分六釐二毫橫黍外周一寸四分四釐毫斜黍外周一寸二分九釐七毫縱黍外周一寸一分六釐七毫橫黍外徑四分五釐八毫斜黍外徑四分一釐二毫縱黍外徑三分七釐一毫算姑洗三種律第十五橫黍律長七寸九分三釐七毫史記少三釐六毫斜漆律長七寸一分四釐三毫後漢少三釐三毫縱黍律長六寸四分二釐九毫淮南少二釐九毫橫黍內周九分八釐九毫斜黍內周八分九釐一毫縱黍內周八分釐一毫橫黍內徑三分一釐五毫
+  hash: sha256:48381f4414787ecfe71dba114551b8f442e05d9a08bcffb6aafa2859c9c7ea9a
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:2ab6d6b82a39d8fc14addf9d464c4c39007e654422b71b281552e38357635bc4

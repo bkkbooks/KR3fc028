@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 密率源流第一徑求周率第二周求徑率第三徑求面羃第四周求面羃第五釜之羃積第六臀之羃積第七
+  hash: sha256:91729eafd51bfe5b2a652942d984da38aadd35a61e6389b8a53e8b770d8dadec
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:c8f3b9b23be4ff465da92a2d3e28d4baeec3d67a5953d1b179f448cfda66935b

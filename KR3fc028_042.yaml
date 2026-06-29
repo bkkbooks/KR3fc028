@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分八百五十五釐是為一升之積數合之積數第八一升者十合也置前所得一升積數一十九寸六百四十一分八百五十五釐為實十合除之得一寸九百六十四分一百八十五釐五百毫是為一合之積數籥之積數第九一合者二籥也置前所得一合積數一寸九百六十四分一百八十五釐五百毫為實二籥除之得九百八十二分百九十二釐七百五十毫是為黃鍾一籥積數以此證之則知積八百一十分非也黃鍾面羃周徑真數第十古黃鍾凡三種一曰縱黍尺黃鍾長八寸一分淮南子曰黃鍾位子其數八十一指此也二曰斜黍尺黃鍾長九寸後漢志曰
+  hash: sha256:6828513a4688ca2620ae2938ccdbce5ac3dceda34fbf8137edc902f405be5ba7
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:027c72b5ad061184d38b120a69ec240256118603602a668d044b142a35f9edac

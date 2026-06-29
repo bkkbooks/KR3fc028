@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/82
+seq: 82
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八十一九自乘所得也一巳上開一四巳上開二九巳上開三一十六巳上開四二十五巳上開五三十六巳上開六四十九巳上開七
+  hash: sha256:ca7b3cc5a941da120c0d45e3783c725c2954284e6773032213a0f8426bb3d2c3
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:95f9a7916c4b6618d890fdcd5071bcd9cd36be773d6597140815b001cbb49fa5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/189
+seq: 189
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 建已月仲呂爲均主俗名緊羽調之平者一弦六弦散聲吹林鍾定是爲仲呂之商二弦七弦散聲吹南呂定是爲仲呂之角三弦散聲吹黃鍾定是爲仲呂之徵四弦散聲吹太蔟定是爲仲呂之羽五弦散聲吹仲呂定是爲仲呂之宮
+  hash: sha256:05c8e1f5d4e7019e51fae2f8a08b769a7ea793621e3743ae924fd24f4ed53aa7
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:3520ae32491ff08e20384e57768e13490d15115f517b23402d2c9137ef9cdf8f

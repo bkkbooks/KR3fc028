@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臋之羃積第七問曰周禮經文但云其臋一寸其實一豆不言周徑今何以知其周徑也荅曰一豆者四升也一釜者八斗也八斗者八十升以八十升爲法除釜之積實一千五百七十一寸三四八四得升之積實一十九寸六四一八五五求豆之積實則四因得七十八寸五百六十七分四百二十釐以深一寸爲法除之得臋之面羃七十八寸五十六分七十四釐二十毫此以面羃知周徑也臋之內徑第八置臋之面羃七十八寸五六七四二自乘得六千一百七十二寸八三九四八五以一百六十二乘之一百除之得一萬寸名三乘方實初學不能開三乘方則依捷法
+  hash: sha256:0599de3d3c7f50d63e10f9f91980c3e45ef7057b39754ec6ba2f810dceeb3a26
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:9da5b02a91a617cc0720c728ed0f021c07fa13024d8d0dbcf6ffdce2c42ec5e4

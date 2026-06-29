@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鬴徑一尺四寸一分四釐三毫一絲三忽五微六纖則是十四方有奇也圓内黑方者所謂方尺也即横黍黄鍾長十寸是也每面方十寸共積一百寸万外圓内全方三十二寸其餘黑白全破之方立相補湊共積一百五十七寸有奇爲鬴之面羃以深一尺乘之得一千五百七十一寸有奇則鬴之積實也
+  hash: sha256:b30b99a7712a74c0a288453a76c6e8dfefd9bbcc2e6b04423567344d11eb9d78
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:16bfe7968d69b5c352900fd5b7b4cc96457494efb8a1cacf9fdc5c347e2d9261

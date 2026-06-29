@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臋之面羃周徑第十二耳之面羃周徑第十三釜區豆升四量之積實第十四釜豆什互相求得黃鍾第十五釜臋耳內外周徑面羃積實容受銅數第十六與下二篇作一事看嘉量一器分作五件筭之第十七內外周徑面羃積實相求第十八
+  hash: sha256:5349aac96a09bd40f9590143d4a56e8393cf98da2a3b42d7fe05a3e3f1e72ede
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:d99e765c32407bac912aa43c85365fec1e6c7c43cdb4c5b5def956b87fc00558

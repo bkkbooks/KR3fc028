@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十為法除之得一十寸即勾自乘得一百寸勾羃倍之得二百寸弦羃自乘得四萬寸與前法同以一百乘之得四百萬寸為實以一百六十二為法除之得二萬四千六百九十一寸三五八為實開平方法除之得一百五十七寸一三四八四是為釜之面羃釜之羃積第六置半周二十二寸二分二釐二毫二絲二忽二微二纖與半徑七寸分七釐一毫絲六忽七微八纖相乘得一百五十七寸一三四八四是為釜之面羃又法置周全數與徑全數相乘得六百二十八寸五三九三六為實四歸得一百五十七寸一三四八四是為釜之面羃以深十寸乘之得一千五百七十一寸三四八四是為釜之積實
+  hash: sha256:14a8d97fb2f2b53bdaeaca68794b140eccd41cd9a391d3a234ed124defa4e17e
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:33e64d4df3246cc554bb1c3f9d96eb5fe0d36d875ea6b7c81d68008212f742c7

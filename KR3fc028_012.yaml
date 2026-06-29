@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仰覆二釜圖說方圓二率圖說黍尺三種圖說已上係凡例故附目録後上卷明律之理釜乃八斗第一古文作釜通俗作釜釜之徑為徑率第二釜之周為周率第三
+  hash: sha256:85d8e71e376a292b14203ab9e0db0d09ab8b893d01f60a160c5f1140d39e3372
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:447904a5ecfeb46d9379be733100fcc306bbdc45404d4317a2a418f9f5b89091

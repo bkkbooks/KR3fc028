@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後學載堉著初學開平方例第一用歸除開平方各算書未載是故詳載之凡學開方須造大算盤長九九八十一位或六六三十六位方可算也算盤梁上帖紙一長條上寫第一位第二位等項字樣使初學易曉也平方積平立二積初學難曉故表出之平方百纖為一微百微為一忽百忽為一絲百絲為一毫百毫為一釐百釐為一分百分為一寸百寸為一尺故曰幾十幾尺幾十幾寸幾十幾分幾十幾釐幾十幾毫幾十幾絲幾十幾忽幾十幾微幾十幾纖又平積
+  hash: sha256:76ca09438de2c81c42f0cb2e21f17a36190efa7ce745e820aa6ec5bd34e7534c
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:8d8a25b32a3de935deb5f491bab8469acd45fce5bde7b1389a8f33972f9ce225

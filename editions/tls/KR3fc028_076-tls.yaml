@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求十二律通長第七求十二律面羃第八求十二律積實第九求十二律容黍第十求十二律內周第十一求十二律內徑第十二求十二律外周第十三求十二律外徑第十四
+  hash: sha256:6dd2f8842f01178c25243779ca1db8b5163ff2679739a58e6cd9ccca7f1c17c0
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:45af889feca99e31b28006dcfb0bc2a6a1a3801969749930fe0002c30313a5db

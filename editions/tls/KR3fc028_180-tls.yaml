@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc028/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 建寅月太蔟爲均主俗名縵宮調之平者一弦六弦散聲吹蕤賓定是爲太蔟之角二弦七弦散聲吹南呂定是爲太蔟之徵三弦散聲吹應鍾定是爲太蔟之羽四弦散聲吹太蔟定是爲太蔟之宮五弦散聲吹姑洗定是爲太蔟之商
+  hash: sha256:60abba6e019fc44c123a095ec836f48412abaa6950593fffbdaa9af19599d4a6
+metadata:
+  title: 嘉量算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc028.xml
+hash: sha256:d23004edca15df9130ae7651122fed172e54f74393c769d9f34dfb81104c588c
