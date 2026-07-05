@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建丑月大呂為均主俗名正調之高者一弦六弦散聲吹夷則定是為大呂之徵二弦七弦散聲吹無射定是為大呂之羽三弦散聲吹大呂定是為大呂之宮四弦散聲吹夾鍾定是為大呂之商五弦散聲吹仲呂定是為大呂之角
-  hash: sha256:6e9e1d6c78231567a1ed1a15176ecaefee4c9475705ecebf0b4e765370f1ecea
+  text: 建丑月大呂爲均主俗名正調之高者一弦六弦散聲吹夷則定是爲大呂之徵二弦七弦散聲吹無射定是爲大呂之羽三弦散聲吹大呂定是爲大呂之宮四弦散聲吹夾鍾定是爲大呂之商五弦散聲吹仲呂定是爲大呂之角
+  hash: sha256:66f5954b3fcaac0767dae29ec98c871119d25717faedbc62b6264c09a8995779
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:f23026bf00c30ece5c3c4d54a7cc7e4e85e1201a1f9742d9e8734db52b3032ad
+hash: sha256:e68a531a97a3b59c8146e0f747b58a438e22e73b4e588accbd2f1928035a750c

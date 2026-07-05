@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建子月黃鍾為均主俗名正調之平者一弦六弦散聲吹林鍾定是為黃鍾之徵二弦七弦散聲吹南呂定是為黃鍾之羽三弦散聲吹黃鍾定是為黃鍾之宮四弦散聲吹太蔟定是為黃鍾之商五弦散聲吹姑洗定是為黃鍾之角
-  hash: sha256:5fbf9089e080f9cc2b0b745d2ac2f8565ac466f14ebc8df9f6642f0b6b12884c
+  text: 建子月黃鍾爲均主俗名正調之平者一弦六弦散聲吹林鍾定是爲黃鍾之徵二弦七弦散聲吹南呂定是爲黃鍾之羽三弦散聲吹黃鍾定是爲黃鍾之宮四弦散聲吹太蔟定是爲黃鍾之商五弦散聲吹姑洗定是爲黃鍾之角
+  hash: sha256:c718ba6ac933d54f4fc0b26f4a2dc736fa9536ac48cb44efa747ef0737792174
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:40c8e682d33886c90ffa8487439dc70966321ebe3c3550e68929bb71db43e655
+hash: sha256:0bb495fca23fc37e787d568603cc5494f75179b9f68c35c5def0e4b41b2cc87f

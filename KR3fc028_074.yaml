@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 中卷明律之數初學開平方例第一周禮㮚氏為量第二子午卯酉相生第三初學開立方例第四亥子循環相生第五應鐘為諸率母第六
-  hash: sha256:79c723175e89ae561062a01ab5fffa0d1f611d14cdc35f868e1c803fb8bfe7d0
+  text: 中卷明律之數初學開平方例第一周禮㮚氏爲量第二子午卯酉相生第三初學開立方例第四亥子循環相生第五應鐘爲諸率母第六
+  hash: sha256:1fa1475ed583f4e85b94e6394fbe28dc929b151502b761521f83adfb29239505
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:e219fcd2718b3be232e40a3e77e6fbd4bcbc3a60b0355079d6690318a6ac52fd
+hash: sha256:8f211d1147d6303f41a5b78f0e41cbbb6b7a5c8f91d587302870535a00d72bb0

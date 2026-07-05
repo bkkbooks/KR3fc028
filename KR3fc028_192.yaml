@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建午月蕤賓為均主俗各緊羽調之高者一弦六弦散聲吹夷則定是為蕤賓之商二弦七弦散聲吹無射定是為蕤賓之角三弦散聲吹大呂定是為蕤賓之徵四弦散聲吹夾鍾定是為蕤賓之羽五弦散聲吹蕤賓定是為蕤賓之宮
-  hash: sha256:094599ddc1b702a83e99e327e19f74e8f79ba979a995781aa8525f8164b634fb
+  text: 建午月蕤賓爲均主俗各緊羽調之高者一弦六弦散聲吹夷則定是爲蕤賓之商二弦七弦散聲吹無射定是爲蕤賓之角三弦散聲吹大呂定是爲蕤賓之徵四弦散聲吹夾鍾定是爲蕤賓之羽五弦散聲吹蕤賓定是爲蕤賓之宮
+  hash: sha256:08d66b6c6412831d5e92c37e791dc5e5b95ede1286359bd0c90bda9d58413783
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:e892f9adfea73ab2562e0b2411c2c01c02fdfdafc1447f84df1e9500e6bacba1
+hash: sha256:b0d77afa46bf070491655b6cbc6479224a0ed754c30cb0f664fc45af29c02ff9
