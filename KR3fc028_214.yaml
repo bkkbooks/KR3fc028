@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臋之內徑第八臋之內周第九耳之羃積周徑第十筭黃鐘三種律第十一筭大呂三種律第十二筭太蔟三種律第十三筭夾鐘三種律第十四筭姑洗三種律第十五
-  hash: sha256:ecaca5b0c1ed4b6787a7b53515e94c5a7b43dbfb50eed699b5f76e9a8ae043d4
+  text: 臀之內徑第八臀之內周第九耳之羃積周徑第十算黃鐘三種律第十一算大呂三種律第十二算太蔟三種律第十三算夾鐘三種律第十四算姑洗三種律第十五
+  hash: sha256:fdccc4c1f8be20b21b855a3fe818e5875778196a60378ecebc898adc4c96a861
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:fd20fe635a3c5c05854346a8c4762d893b8befa4f75a8c99b81c0e0cfb6456f5
+hash: sha256:60f920a3859be2dd94126a7e4f06999cf7eb5991f083ef4344f9eee451eaf199

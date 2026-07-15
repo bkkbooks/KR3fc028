@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 仰覆二釜圖説方圆二率圖説黍尺三種圖說已上係凡例故附目錄後上卷明律之理釜乃八斗第一古文作鬴通俗作釜釜之徑爲徑率第二釜之周爲周率第三
-  hash: sha256:86039c33d50f540f9abc0b4e29610ea4cea1574723341361a077744b64aa6d5b
+  text: 仰覆二釜圖説方圓二率圖説黍尺三種圖説已上係凡例故附目録後上卷明律之理釜乃八斗第一古文作釜通俗作釜釜之徑為徑率第二釜之周為周率第三
+  hash: sha256:d4a47dc94a0f6b909c836144f23070cd6b86add470eeb45fdf3c46063e6cfbdd
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:9667c8bfc89a92f1d5d1f8c43cf5aae277f43cbd499fc47b8b40dde576de7a76
+hash: sha256:5c7695bb39a213b96f856121712232e295f1d0b94ac542c0bea2465f8b745d23

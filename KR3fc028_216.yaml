@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筭仲呂三種律第十六筭蕤賓三種律第十七筭林鐘三種律第十八筭夷則三種律第十九筭南呂三種律第二十筭無射三種律第二十一筭應鐘三種律第二十二問三種律同異第二十三
-  hash: sha256:524e88992d6b2c97b8b073d10f53d49077a1b87403d9d2782ec602abb8c30ed3
+  text: 算仲呂三種律第十六算蕤賓三種律第十七算林鐘三種律第十八算夷則三種律第十九算南呂三種律第二十算無射三種律第二十一算應鐘三種律第二十二問三種律同異第二十三
+  hash: sha256:695d37de0c68c0cabbe0daf6f088178d5b2ff6e761df3cb989477df0087fde23
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:b4c4ad844053a638d6a90df1f320a64b54ac8fd964c2e0c5212c48c6feb428d6
+hash: sha256:fcc08a7cc77358d808dd70ea9510fc28d639805c02014e08a2da7b3f60be7263

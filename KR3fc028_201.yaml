@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建酉月南呂爲均主俗名淸商調之下者一弦六弦散聲吹蕤賓定是爲南呂之羽二弦七弦散聲吹南呂定是爲南呂之宮三弦散聲吹應鍾定是爲南呂之商四弦散聲吹大呂定是爲南呂之角五弦散聲吹姑洗定是爲南呂之徵
-  hash: sha256:76dd5a90e393e0482b81bdfb4520a071db5da26817426482ebbb0160f3787a6c
+  text: 建酉月南呂為均主俗名淸商調之下者一弦六弦散聲吹蕤賓定是為南呂之羽二弦七弦散聲吹南呂定是為南呂之宮三弦散聲吹應鍾定是為南呂之商四弦散聲吹大呂定是為南呂之角五弦散聲吹姑洗定是為南呂之徵
+  hash: sha256:a1bb03f5607cd9cefbede78bc671ccf094b1806737620c5d4cd975c8f3dcac18
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:e7f5f0d1c27c421f9f23307678c96a6287bdc9a70c081dd3340d9f6973268a72
+hash: sha256:7d8620d58e89a1e0488a1e38fd96e216f09c8949b62fa311e4a21709db2c1db9

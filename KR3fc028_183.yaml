@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建卯月夾鍾爲均主俗名縵宮調之高者一弦六弦散聲吹林鍾定是爲夾鍾之角二弦七弦散聲吹無射定是爲夾鍾之徵三弦散聲吹黃鍾定是爲夾鍾之羽四弦散聲吹夾鍾定是爲夾鍾之宮五弦散聲吹仲呂定是爲夾鍾之商
-  hash: sha256:24b28509ce7a7e35d9cc7404fce8c85e23ed71f4e536de6fa015c957abcd3acf
+  text: 建卯月夾鍾為均主俗名縵宮調之高者一弦六弦散聲吹林鍾定是為夾鍾之角二弦七弦散聲吹無射定是為夾鍾之徵三弦散聲吹黃鍾定是為夾鍾之羽四弦散聲吹夾鍾定是為夾鍾之宮五弦散聲吹仲呂定是為夾鍾之商
+  hash: sha256:dfc9e2ad043e06145f0fcb49d1e98026aa7279fc078f91e58bbecb5391c832e5
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:76975c0394d2250c996e6f60c7bcff83e6f5d841f1ca09c59e6f287bf3496481
+hash: sha256:7dc5dc224405bf7fb0def145f8683bb426aaf6ba2061a2782be2bd016d2a39af

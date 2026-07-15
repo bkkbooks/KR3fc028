@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筭林鍾三種律第十八橫黍律長六寸六分七釐四毫史記少八毫斜黍律長六寸分釐七毫後漢少七毫縱黍律長五寸四分釐六毫淮南少六毫橫黍內周九分釐七毫斜黍內周八分一釐六毫縱黍內周七分三釐五毫橫黍內徑二分八釐八毫
-  hash: sha256:8ff108edc36f178765f4cc52f9939f140f8cc88d0df40b7480fe76b97bde8e67
+  text: 算林鍾三種律第十八橫黍律長六寸六分七釐四毫史記少八毫斜黍律長六寸分釐七毫後漢少七毫縱黍律長五寸四分釐六毫淮南少六毫橫黍內周九分釐七毫斜黍內周八分一釐六毫縱黍內周七分三釐五毫橫黍內徑二分八釐八毫
+  hash: sha256:4a25afbae19e142ce247ed254e51cff7f23064ccc4caf1e1e38f5445eaac12e8
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:98809d1be154b1ca0fc259022c098133d0517b9c8b63e8dfe0aeb86a34db67f1
+hash: sha256:effb37991af8471b600d29b0cb71212f53417ba80a613a4143eb79ea259b34cb

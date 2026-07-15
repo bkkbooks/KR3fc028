@@ -9,12 +9,15 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KX_2_dup64, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 23, content: '', id: KR3fc028_tls_001-p67.s3}
   - {type: line-break, offset: 23, content: '', id: KX_3_dup64, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 32, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fc028_tls_001-p67.s4}
   - {type: line-break, offset: 39, content: '', id: KX_4_dup64, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 45, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fc028_tls_001-p67.s5}
   - {type: line-break, offset: 55, content: '', id: KX_5_dup63, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 57, content: ○, id: KR3fc028_tls_146-bkkpn1}
   - {type: punctuation, offset: 60, content: ○, id: KR3fc028_tls_146-bkkpn2}
+  - {type: substitution, offset: 61, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc028_tls_001-p67.s6}
   - {type: line-break, offset: 65, content: '', id: KX_6_dup63, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3fc028_tls_001-p67.s7}
@@ -44,4 +47,4 @@ markers:
   - {type: 'tls:seg', offset: 199, content: '', id: KR3fc028_tls_001-p67.s17}
   - {type: line-break, offset: 199, content: '', id: KX_17_dup65, _xml_error: duplicate-id, _xml_original_id: KX_17}
   back: []
-hash: sha256:a81764354560f8346a85f673d46c41b6967c9edcc5e966db8b1077f4d0a6f312
+hash: sha256:3cfa6d6cabb4c8a42e4843534f1df35da97137faeb0f08a462c95536d7ee07ec

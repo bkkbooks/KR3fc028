@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 建亥月應鍾爲均主俗名淸商調之高者一弦六弦散聲吹夷則定是爲應鍾之羽二弦七弦散聲吹應鍾定是爲應鍾之宮三弦散聲吹大呂定是爲應鍾之商四弦散聲吹夾鍾定是爲應鍾之角五弦散聲吹蕤賓定是爲應鍾之徵
-  hash: sha256:0eb7130c85ce717131a43a625627afe641cc19bb82e0ee8f913570e3c6ed3afc
+  text: 建亥月應鍾為均主俗名淸商調之高者一弦六弦散聲吹夷則定是為應鍾之羽二弦七弦散聲吹應鍾定是為應鍾之宮三弦散聲吹大呂定是為應鍾之商四弦散聲吹夾鍾定是為應鍾之角五弦散聲吹蕤賓定是為應鍾之徵
+  hash: sha256:d4642cae1d3c7455a5f1e41f42481f9813e15f69088882da8beb2ab3645a9103
 metadata:
   title: 嘉量算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc028.xml
-hash: sha256:1fe8ebff0bc0f600cb25a33afa676e9a2df43edc35e5a97235e498f708ddb804
+hash: sha256:d9ea7ad1acace1e0eb51ba74b6b9a4455df9953ff939073c6d3b40b04bb9d614

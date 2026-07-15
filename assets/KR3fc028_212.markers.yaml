@@ -17,5 +17,6 @@ markers:
   - {type: line-break, offset: 30, content: '', id: KX_7_dup74, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 36, content: '', id: KR3fc028_tls_001-p104.s8}
   - {type: line-break, offset: 36, content: '', id: KX_8_dup75, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 36, original: 臋, replacement: 臀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17804}}
   back: []
-hash: sha256:e6373724a240c147b8090d2aea6a0e40836deefdf824c49ed6fc12ce2655ccd1
+hash: sha256:cb7365f6dbd76755ed4dbb1a15b2f5fc28ee042e3d3632e7c5652be52a9ec82e
